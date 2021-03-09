@@ -1,2 +1,2 @@
-# S3 Backend Module
-This is a description for a module
+# S3 backend module
+This module creates the resources to support S3 as standard backend for Terraform allowing team collaboration.
